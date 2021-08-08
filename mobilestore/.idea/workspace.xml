@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36c5249c-3b8b-44bf-beab-4a417dae1191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstproject/centerhead/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstproject/counsiler/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../django.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../front end/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../front end/html basics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../front end/htmlbase1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mysql basics/dbconnect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mysql basics/fetch data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mysql basics/insert to tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mysql basics/mysql to python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1 git and git hub/git commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1 git and git hub/git commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/recursion- palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Functions/recursion- palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../django/django base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../identifiers/print stmt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../identifiers/print stmt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mysql basics/queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mysql basics/queries.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1wB5N25OHUq4ezF1oxde7OOMRtd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36c5249c-3b8b-44bf-beab-4a417dae1191" name="Default Changelist" comment="" />
+      <created>1627919097844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627919097844</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
